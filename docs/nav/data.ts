@@ -738,6 +738,13 @@ export const NAV_DATA: NavData[] = [
         desc: '生成模组端服务器核心',
         link: 'https://serverpackcreator.de/#/',
       },
+      {
+        //icon: 'https://www.mcnav.net/wp-content/uploads/2021/08/1628139624-sakurafrp.png',
+        icon: '/icons/nav/实用软件/Sakura Frp.png',
+        title: 'Sakura Frp',
+        desc: '好用的内网穿透',
+        link: 'https://www.natfrp.com/',
+      },
     ],
   },
 ]
