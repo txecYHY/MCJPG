@@ -667,6 +667,13 @@ export const NAV_DATA: NavData[] = [
         desc: 'MC区块选择器,方便编辑区块,支持中文',
         link: 'https://github.com/Querz/mcaselector',
       },
+      {
+        //icon: '/icons/Sakura Frp.png',
+        icon: '/icons/nav/实用软件/Sakura Frp.png',
+        title: 'Sakura Frp',
+        desc: '好用的内网穿透',
+        link: 'https://www.natfrp.com/',
+      },
     ],
   },
 ]
